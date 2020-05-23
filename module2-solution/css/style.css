@@ -1,0 +1,21 @@
+* {
+	<box-sizing: border-box; 
+}
+
+* {
+	box-sizing: border-box;
+} 
+
+.menu-item {
+	border: 5px solid black;
+	width: 300px;
+	float: left;
+}
+
+.item-title {
+	border: 1px solid black;
+}
+
+.it2 {
+	clear: left;
+}
